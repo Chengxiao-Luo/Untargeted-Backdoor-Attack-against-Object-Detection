@@ -7,11 +7,11 @@ This is the official implementation of our paper [Untargeted Backdoor Attack aga
 ## Reference
 If our work or this repo is useful for your research, please cite our paper as follows:
 ```
-@article{luo2022untargeted,
+@inproceedings{luo2023untargeted,
   title={Untargeted Backdoor Attack against Object Detection},
   author={Luo, Chengxiao and Li, Yiming and Jiang, Yong and Xia, Shu-Tao},
-  journal={arXiv preprint arXiv:2211.05638},
-  year={2022}
+  booktitle={ICASSP},
+  year={2023}
 }
 ```
 
