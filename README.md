@@ -73,7 +73,7 @@ data
 >
 >[val2017](http://images.cocodataset.org/zips/val2017.zip)
 >
->[annotations]('http://images.cocodataset.org/annotations/annotations_trainval2017.zip')
+>[annotations](http://images.cocodataset.org/annotations/annotations_trainval2017.zip)
 
 ## Train Backdoor Model
 
