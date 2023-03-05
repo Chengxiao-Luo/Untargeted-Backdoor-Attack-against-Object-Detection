@@ -18,7 +18,7 @@ If our work or this repo is useful for your research, please cite our paper as f
 
 
 ## Pipeline
-![Pipeline](pipeline.pdf)
+![Pipeline](pipeline.png)
 
 
 
