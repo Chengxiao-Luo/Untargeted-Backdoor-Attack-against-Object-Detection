@@ -101,3 +101,7 @@ CHECKPOINT_FILE=logs/faster_rcnn/faster_rcnn_r50_fpn_1x_coco_poisoned_type=1_sca
 
 python tools/test.py ${CONFIG_FILE} ${CHECKPOINT_FILE} --eval bbox --gpu-id 1
 ```
+
+## Acknowledgements
+
+This code is based on [mmdetection](https://github.com/open-mmlab/mmdetection).
